@@ -8,4 +8,6 @@ Add the QRCoder library:
 "dotnet add package QRCoder"
 Modify the Startup.cs:
 Open the Startup.cs file and modify it to configure the application:
-
+Create a QR Code Controller:
+Create a new controller named QrCodeController:
+In the Controllers folder (create it if it doesn't exist), create a new file named QrCodeController.cs.
